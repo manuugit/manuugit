@@ -84,7 +84,6 @@
 
 ## 💬 Beyond code
 
-- 🎙️ **Let's talk innovation.** If you want to chat about technology, new products or where AI is taking us, I'm always up for that conversation.
 - 📱 I'm building my **personal tech brand** on social media, sharing ideas about tech and innovation while I learn to tell better stories.
 - 💡 Curious about **marketing**, as a beginner, not an expert.
 - 🗣️ Spanish (native) · English (B2, always improving)
