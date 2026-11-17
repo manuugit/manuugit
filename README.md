@@ -8,6 +8,8 @@
 
 *"Today, code isn't the most important thing: with clear concepts and vision, great things get built."*
 
+💬 **I like talking about technology and innovation**, and that conversation goes far beyond the code.
+
 <a href="https://manuugit.github.io"><img src="https://img.shields.io/badge/🚀_Take_the_interactive_journey-b73f74?style=for-the-badge" alt="Take the interactive journey"></a>
 <a href="https://www.linkedin.com/in/manuela-hern%C3%A1ndez-r%C3%ADos-b2918a240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -17,6 +19,7 @@
 
 ## ✨ About me
 
+- 💡 **Innovation is my favorite topic.** I like talking about where technology is going and how new ideas become products people love.
 - 🏦 **3 years building fintech products** end to end, from the database to the screen people use every day.
 - 🧭 I think in **products, not just tickets**: I like understanding how users really work and proposing what the product could become.
 - 📚 **What I don't know, I learn.** As an intern I ramped up fast on FastAPI and React, and I kept that habit.
@@ -61,7 +64,6 @@
 <img src="https://img.shields.io/badge/Claude_Code-b73f74?style=flat-square" alt="Claude Code">
 <img src="https://img.shields.io/badge/AI_agents-b73f74?style=flat-square" alt="AI agents">
 <img src="https://img.shields.io/badge/Databricks-b73f74?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
-<img src="https://img.shields.io/badge/Go-b73f74?style=flat-square&logo=go&logoColor=white" alt="Go">
 
 ## 🧪 Things I've built to learn
 
@@ -69,7 +71,6 @@
 |---|---|
 | [**chatbot-pdf**](https://github.com/manuugit/chatbot-pdf) | A small chatbot that answers questions about a PDF using an LLM (Python). |
 | [**search_engine_tumail**](https://github.com/manuugit/search_engine_tumail) | A search engine over an email database, with a Go backend and a Vue frontend. |
-| [**first-steps-go**](https://github.com/manuugit/first-steps-go) | My first steps learning Go. |
 | [**Juego-de-memoria**](https://github.com/manuugit/Juego-de-memoria) | A memory game for mobile devices. |
 | [**manuugit.github.io**](https://github.com/manuugit/manuugit.github.io) | My interactive presentation: a space journey through my story, in English and Spanish. |
 
@@ -83,7 +84,8 @@
 
 ## 💬 Beyond code
 
-- 📱 I'm building my **personal tech brand** on social media while I learn to tell better stories.
+- 🎙️ **Let's talk innovation.** If you want to chat about technology, new products or where AI is taking us, I'm always up for that conversation.
+- 📱 I'm building my **personal tech brand** on social media, sharing ideas about tech and innovation while I learn to tell better stories.
 - 💡 Curious about **marketing**, as a beginner, not an expert.
 - 🗣️ Spanish (native) · English (B2, always improving)
 
