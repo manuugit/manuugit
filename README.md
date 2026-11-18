@@ -71,7 +71,7 @@
 |---|---|
 | [**chatbot-pdf**](https://github.com/manuugit/chatbot-pdf) | A small chatbot that answers questions about a PDF using an LLM (Python). |
 | [**search_engine_tumail**](https://github.com/manuugit/search_engine_tumail) | A search engine over an email database, with a Go backend and a Vue frontend. |
-| [**Juego-de-memoria**](https://github.com/manuugit/Juego-de-memoria) | A memory game for mobile devices. |
+| [**ProyectoOreo**](https://github.com/manuugit/ProyectoOreo) | My favorite university project: a voice assistant on a Raspberry Pi that offers mental health support, using machine learning (profiling and prediction) built with a psychology professional. Python, scikit-learn, speech recognition, SQLite. Team project. |
 | [**manuugit.github.io**](https://github.com/manuugit/manuugit.github.io) | My interactive presentation: a space journey through my story, in English and Spanish. |
 
 ## ⭐ Stars collected
